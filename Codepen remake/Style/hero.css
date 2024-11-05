@@ -1,0 +1,36 @@
+.hero-section {
+    display: flex;
+    background-color: #1B1C20;
+    width:100%;
+    padding-right: 0;
+}
+h1, h2 { 
+    color: white;
+    font-family: "Roboto",sans-serif;
+    font-weight: 200;
+    word-spacing: 2px;
+    padding-bottom: 20px;
+}
+.text-grid-wrapper {
+justify-content: flex-start; 
+padding-left: 50px; 
+padding-top: 70px;
+}
+.spacer450 {
+  padding-left: 450px;  
+}
+.cap-wrapper {
+    justify-content: flex-end;
+    
+}
+.cap-wrapper p{
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-weight: 600;
+    padding-top: 100px;
+}
+.text-grid-buttons {
+    padding-top: 25px;
+    margin-right: 5px;
+    justify-content: flex-start;
+}

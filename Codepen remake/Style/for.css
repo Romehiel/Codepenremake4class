@@ -1,0 +1,11 @@
+.for-section{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    background-color: #37383F;
+    color: white;
+    font-family: "Roboto",sans-serif;
+    font-weight: 500;
+    justify-content: space-evenly;
+    font-size: 1.5em;
+    padding:25px
+}

@@ -1,0 +1,37 @@
+.simple-buttons> .btn{
+    color:white;
+    font-family: "Roboto", sans-serif;
+    font-size: 1.25em;
+    font-weight: 600;
+    background-color: #37383F;
+    outline: none;
+    border: 1px solid #37383F;
+    padding: 15px 25px;
+    margin-right: 5px;
+    border-radius: 3px;
+}
+
+.text-grid-buttons >.green{
+    color:black;
+    background-color: green;
+    font-size: 1.7em;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    outline: none;
+    border: 1px solid green;
+    padding: 15px 25px;
+    border-radius: 3px;
+    margin-right: 7px;
+}
+
+.text-grid-buttons >.black {
+    color:white;
+    background-color: black;
+    font-size: 1.7em;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    outline: none;
+    border: 1px solid black;
+    padding: 15px 25px;
+    border-radius: 3px;
+}
