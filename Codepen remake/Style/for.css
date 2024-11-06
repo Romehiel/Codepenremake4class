@@ -1,11 +1,24 @@
 .for-section{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    display: flex;
+    position: relative;
     background-color: #37383F;
     color: white;
     font-family: "Roboto",sans-serif;
     font-weight: 500;
     justify-content: space-evenly;
     font-size: 1.5em;
-    padding:25px
+   
+}
+.for-section>a {
+    flex: 1;
+    padding: 20px 30px;
+    color: white;
+    text-align: center;
+    background: #373737;
+    border: 1px solid #676767;
+    text-decoration: none;
+}
+.para {
+    font-weight: 600;
+    text-transform: uppercase;
 }
